@@ -14,3 +14,7 @@ An interactive, full-stack Spotify-inspired web application with real-time featu
 - 🚀 And much more...
 
 ---
+
+## Project Status
+
+Spotify clone successfully configured and deployed to GitHub.
